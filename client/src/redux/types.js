@@ -1,0 +1,2 @@
+export const UPDATE_LIST = 'LIST/UPDATE_LIST'
+export const DEFAULT_STATE = 'LIST/DEFAULT_STATE'
